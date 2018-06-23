@@ -24,6 +24,11 @@ Como objetivo principal nos hemos centrado en las personas con discapacidad visu
 -Informacion de rutas,  paradas.
 -Comunicacion con asistencia y  emergencias. 
 -Conexión con diferentes aplicaciones de transporte (Uber, Trasnmilenio, Taxi, Sitp)
+-El guia del GPS debe llegar a las para correctas con actualizaciones en tiempo real.
+
+
+# Nota
+debido al que el reto esta muy generalizado, se penso en especificarlo dirigiendose en el especial, a la poblacion invidente o  con disminucion visual,  para mejorar su circulacion y en la ciudad.
 
 
 
